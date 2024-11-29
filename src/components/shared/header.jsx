@@ -8,8 +8,8 @@ import Logo from "../../components/logo.png";
 function Header() {
   return (
     <div>
-    <header className='flex py-3 bg-white z-10 fixed px-16'>
-      <div className="flex justify-between gap-96">
+    <header className='flex py-3 bg-white z-10 fixed px-16 w-full'>
+      <div className="flex justify-between gap-80">
       <div className='flex items-center gap-5'>
         <div className="flex gap-2 items-center">
           <button className='flex items-center gap-2'>
